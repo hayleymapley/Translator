@@ -103,7 +103,6 @@ abbe	ABBÉ=Abate
 abberations	Aberración
 abberations	aberracion
 abberations	desvi/o
-abberations	UNKNOWN WORD IN ENGLISH
 abbey	abadi/a
 abbey	abadía[Noun]
 abbeys	Abadías, monasterios, conventos
@@ -1147,7 +1146,6 @@ appetite	el apetito
 appetizer	el aperitivo
 applaud	aplaudir
 applause	el aplauso
-apple	apple
 apple	la manzana
 apple	manzana
 apples	las manzanas
@@ -1240,7 +1238,7 @@ babes	niños[Noun]
 babied	mimado (a)[Adjective]
 babies	bebe/s
 babies	criaturas, bebes
-baboon	babui/no
+baboon	babuino
 babushka	la babushka (sombrero ruso)[Noun]
 baby	bebe/
 baby	criatura
@@ -5934,14 +5932,14 @@ snacks	aperitivos, tentempie´, refrigerio[Noun]
 snag	un problema, un inconveniente[Noun]
 sneeze	estornudar
 snore	roncar
-snorkelear	to snorkel
+snorkel	snorkelear
 snot	moco
 snow	la nieve
 snow	nevar
 snug	acogedor[Adjective]
 so	de modo que, asi´ que[Conjunction]
 soaked	empapado[Adjective]
-soccer	f&uacute;tbol
+soccer	fu/tbol
 society	sociedad[Noun]
 sofa	el sofa/[Noun]
 soft	blando
@@ -6015,22 +6013,8 @@ statue	la estatua
 statues	estatuas
 stature	altura
 stay	quedar
-steak	beef
 steak	el biftec
-steak	meat
-steaks	items
-steaks	things
-steal	grab
 steal	robar
-steal	take
-stealer	grabber
-stealer	taker
-stealing	grabbing
-stealing	taking
-steals	grabs
-steals	takes
-stealth	don't know
-stealth	not sure
 steam	el vapor
 steel	acero
 steel	el acero

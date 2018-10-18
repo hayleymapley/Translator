@@ -53,6 +53,11 @@ public class TranslatorServer {
 		}
 	}
 
+	/**
+	 * Checks if the given word exists in database
+	 * @param token
+	 * @return
+	 */
 	public static boolean checkWordExists(String token) {
 		
 		boolean res = true;
@@ -85,6 +90,11 @@ public class TranslatorServer {
 		return res;
 	}
 
+	/**
+	 * Get the corresponding Spanish word/s from the database and return
+	 * @param token
+	 * @return
+	 */
 	public static ArrayList<String> translate(String token) {
 		
 		ArrayList<String> result = new ArrayList<>();

@@ -56,7 +56,14 @@ public class TranslatorClient extends Application {
 					textField.clear();
 					untranslatedText.setText(token+"\n");
 					try {
-						translatedText.setText(requestTranslation(token));
+						String translated = requestTranslation(token);
+						String fixedN = translated.replace("n~", "ñ");
+						String fixedA = fixedN.replace("a/", "á");
+						String fixedE = fixedA.replace("e/", "é");
+						String fixedI = fixedE.replace("i/", "í");
+						String fixedO = fixedI.replace("o/", "ó");
+						String fixedFinal = fixedO.replace("u/", "ú");
+						translatedText.setText(fixedFinal);
 					} catch (IOException e) {
 						e.printStackTrace();
 					}
