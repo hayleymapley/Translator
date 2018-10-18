@@ -50,7 +50,7 @@ public class TranslatorClient extends Application {
 			initialisePanes();
 			
 			translateButton.setOnAction(new EventHandler<ActionEvent>() {
-				@Override
+				@Override 
 				public void handle(ActionEvent event) {
 					String token = textField.getText();
 					textField.clear();
